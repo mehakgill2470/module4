@@ -1,0 +1,49 @@
+{
+  "putProducts": [
+    {
+      "name": "Sunscreen",
+      "price" : 10, 
+      "uses": [
+        "Protects from sun",
+        "Prevent Tanning"
+      ],
+      "image": "S.jpg"
+    },
+    {
+      "name": "Highlighter",
+      "price" : 14, 
+      "uses": [
+        "To highlight cheek bones",
+        "WFor contouring face fat"
+      ],
+      "image": "H.jpg"
+    },
+    {
+      "name": "Concealer",
+      "price" : 30, 
+      "uses": [
+        "Fill open pores",
+        "hide scars"
+      ],
+      "image": "C.jpg"
+    },
+    {
+      "name": "Foundation",
+      "price" : 34, 
+      "uses": [
+        "Even tone skin",
+        "Glow on face"
+      ],
+      "image": "F.jpg"
+    },
+    {
+      "name": "Priemer",
+      "price" : 40, 
+      "uses": [
+        "Fill empty pores",
+        "Remove dullness"
+      ],
+      "image": "P.jpg"
+    }
+  ]
+}
